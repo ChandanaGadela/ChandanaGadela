@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Chandana Gadela!
+# 👋 Hi there, I'm Chandana!
 
 ### Data Enthusiast | Problem Solver | Storyteller  
 I transform raw data into actionable insights, weaving stories with numbers and creating solutions that drive efficiency and decision-making. With over 5 years of experience in data analytics, visualization, and automation, I’m always looking for the next challenge to tackle.
