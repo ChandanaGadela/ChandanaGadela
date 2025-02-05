@@ -7,18 +7,6 @@ Currently, I’m diving into machine learning, cloud technologies, and building 
 
 ---
 
-### 🌟 A Glimpse Into My Journey:
-- 📚 **Education**:  
-  - MS in Computer Information Systems, specializing in Data Modeling & Analytics
-  - BTech in Electronics and Communication Engineering
-
-- 💼 **Professional Experience**:  
-  1. **Community Dreams Foundation**: Automated workflows, improved data accuracy, and enhanced forecasting by 20%.  
-  2. **Karnataka Power Corporation Ltd., Integrated Baranj Opencast Mine**: Boosted mining operation efficiency and reporting.  
-  3. **Amazon**: Perfected Alexa’s NLP accuracy and streamlined ETL processes.
-
----
-
 ### 🛠️ My Toolbox:
 - **Programming & Data Tools**: SQL, Python, R, Java, C++  
 - **Visualization**: Tableau, Power BI, Advanced Excel  
@@ -32,14 +20,6 @@ When I’m not crunching numbers or analyzing visuals, you’ll find me:
 - 🎨 Painting or exploring creative outlets.  
 - 🍰 Baking sweet & savory treats (ask me about my latest recipe!).  
 - ✈️ Traveling and immersing myself in new cultures.  
-
----
-
-### 🏆 Featured Projects:
-- **[Global Economic Impact of COVID-19](#)**: Visualized GDP trends and government stimulus data using RStudio & Tableau.  
-- **[Military Spending Analysis](#)**: Analyzed SIPRI data for global defense spending patterns with SQL & RStudio.
-- **[Improving Alexa’s Speech and Intent Recognition](#)**: Optimized natural language processing pipelines for Alexa by analyzing voice interaction data using **Python** and **SQL**.
-- **[Alexa Voice Interactions Pipeline](#)**: Automated workflows and enhanced intent recognition with Python & SQL.
 
 ---
 
