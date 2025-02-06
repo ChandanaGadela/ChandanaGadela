@@ -15,6 +15,14 @@ Currently, I’m diving into machine learning, cloud technologies, and building 
 
 ---
 
+### 🏆 Featured Projects:
+- **[Global Economic Impact of COVID-19](#)**: Visualized GDP trends and government stimulus data using RStudio & Tableau.  
+- **[Military Spending Analysis](#)**: Analyzed SIPRI data for global defense spending patterns with SQL & RStudio.
+- **[Improving Alexa’s Speech and Intent Recognition](#)**: Optimized natural language processing pipelines for Alexa by analyzing voice interaction data using **Python** and **SQL**.
+- **[Alexa Voice Interactions Pipeline](#)**: Automated workflows and enhanced intent recognition with Python & SQL.
+
+---
+
 ### 🌍 Beyond Data:
 When I’m not crunching numbers or analyzing visuals, you’ll find me:  
 - 🎨 Painting or exploring creative outlets.  
