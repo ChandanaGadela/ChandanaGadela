@@ -18,8 +18,8 @@ Currently, I’m diving into machine learning, cloud technologies, and building 
 ### 🏆 Featured Projects:
 - **[Global Economic Impact of COVID-19](https://github.com/ChandanaGadela/covid19-economic-impact)**: Visualized GDP trends and government stimulus data using RStudio & Tableau.  
 - **[Military Spending Analysis](https://github.com/ChandanaGadela/covid19-economic-impact)**: Analyzed SIPRI data for global defense spending patterns with SQL & RStudio.
-- **[Improving Alexa’s Speech and Intent Recognition]**: Optimized natural language processing pipelines for Alexa by analyzing voice interaction data using **Python** and **SQL**.
-- **[Alexa Voice Interactions Pipeline]**: Automated workflows and enhanced intent recognition with Python & SQL.
+- **[Improving Alexa’s Speech and Intent Recognition](#)**: Optimized natural language processing pipelines for Alexa by analyzing voice interaction data using **Python** and **SQL**.
+- **[Alexa Voice Interactions Pipeline](#)**: Automated workflows and enhanced intent recognition with Python & SQL.
 
 ---
 
